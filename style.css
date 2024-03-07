@@ -1,0 +1,17 @@
+body{
+    color: #20b2aa;
+    background-color: pink;
+    margin: 10px;
+    line-height: 2;
+    font-size: medium;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+}
+h2{
+    text-align: left;
+    font-size: 30px;
+}
